@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 
 <!--
 **DenisKh08/DenisKh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 ## Мои навыки
 - Python
 - Git
+- C++
 
 ## Связаться со мной
 - dhitik08@gmail.com
