@@ -1,7 +1,9 @@
 # Hi there 👋 I'm Denis
 
 💻 **Student | Beginner Developer**
+
 🌱 Currently learning **Python, Git and C++**
+
 🚀 Improving my skills in **GitHub and programming**
 
 ---
