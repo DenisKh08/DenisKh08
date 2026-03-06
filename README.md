@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Denis
+# Hi there 👋 
 
 💻 **Student | Beginner Developer**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 * 🎓 Student at **MGKCT**
 * 💻 Learning backend basics with **Python**
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+# 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
